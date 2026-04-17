@@ -5,7 +5,7 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import './index.css'; // Seu CSS original aqui
+import './App.css'; // Seu CSS original aqui
 
 export default function App() {
     // Inicializa o tema lendo do localStorage (ou falso como padrão)
